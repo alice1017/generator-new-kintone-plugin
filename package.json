@@ -1,7 +1,7 @@
 {
   "name": "generator-new-kintone-plugin",
   "description": "A Yeoman generator to create new kintone plugin with webpack.",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "main": "app/index.js",
   "license": "MIT",
   "repository": {
