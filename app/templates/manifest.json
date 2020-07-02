@@ -1,0 +1,31 @@
+{
+  "manifest_version": 1,
+  "version": 1,
+  "type": "APP",
+  "name": {
+    "en": "<%= project %>",
+    "ja": ""
+  },
+  "description": {
+    "en": "<%- desc %>",
+    "ja": ""
+  },
+  "icon": "assets/icon.png",
+  "desktop": {
+    "js": [
+      "dist/desktop.js"
+    ],
+    "css": [
+      "src/css/desktop.css"
+    ]
+  },
+  "config": {
+    "html": "src/html/config.html",
+    "js": [
+      "dist/config.js"
+    ],
+    "css": [
+      "src/css/config.css"
+    ]
+  }
+}
