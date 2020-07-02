@@ -4,6 +4,10 @@
   "version": "0.1.0",
   "main": "app/index.js",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alice1017/generator-new-kintone-plugin"
+  },
   "scripts": {
     "build": "babel src --out-dir app",
     "prepare": "npm run build",
