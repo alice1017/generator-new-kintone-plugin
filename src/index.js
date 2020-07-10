@@ -7,6 +7,7 @@ const templateFiles = [
   ".eslintignore",
   ".eslintrc.js",
   ".gitignore",
+  "assets/icon.png",
   "manifest.json",
   "package.json",
   "src/css/config.css",
